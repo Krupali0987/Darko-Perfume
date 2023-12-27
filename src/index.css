@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+:where(.css-dev-only-do-not-override-qgg3xn).ant-collapse>.ant-collapse-item >.ant-collapse-header {
+  padding: 2px;
+  line-height: 20px;
+  margin-top: 18px;
+}
+:where(.css-dev-only-do-not-override-qgg3xn).ant-collapse>.ant-collapse-item >.ant-collapse-header .ant-collapse-arrow svg {
+  transition: transform 0.3s;
+  color: #a87c36;
+  width: 80px;
+  border-width: 10%;
+  font-weight: 900 !important;
+ 
+
+}
+
+.child{
+  background-color: white;
+}
+
+:where(.css-dev-only-do-not-override-qgg3xn).ant-checkbox-wrapper{
+  background-color: aliceblue;
+
+}
+
+:where(.css-dev-only-do-not-override-qgg3xn).ant-checkbox .ant-checkbox-inner{
+  border: 2px solid black;
+  border-radius: 50%;
+  height: 25px;
+  width: 25px;
+}

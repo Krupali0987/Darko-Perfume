@@ -1,0 +1,29 @@
+.test :where(.css-dev-only-do-not-override-qgg3xn).ant-collapse .ant-collapse-content{
+    background-color:  transparent;
+    padding: 1px;
+    border-top: none;
+    margin-left: 5%;
+    margin-top: -2%;
+    margin-bottom: 2%;
+  }
+
+  .test :where(.css-dev-only-do-not-override-qgg3xn).ant-collapse {
+    line-height: 0;
+   
+  }
+
+  .test :where(.css-dev-only-do-not-override-qgg3xn).ant-collapse .ant-collapse-content>.ant-collapse-content-box {
+    padding: 0px 0px; 
+}
+
+.test :where(.css-dev-only-do-not-override-qgg3xn).ant-collapse>.ant-collapse-item >.ant-collapse-header{
+  padding: 0%;
+  margin-top: 0%;
+  line-height: 1;
+}
+
+.test :where(.css-dev-only-do-not-override-qgg3xn).ant-collapse>.ant-collapse-item {
+  border: none;
+}
+ 
+  
